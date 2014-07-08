@@ -18,7 +18,3 @@ function chars(max, position) {
         }
     });
 }
-
-// Provide here your maximum number of characters and textarea id
-chars(200, "text-1");
-chars(400, "text-4");
