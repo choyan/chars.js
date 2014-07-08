@@ -1,5 +1,5 @@
 /**
- * textCounter by Zahidul Hossain
+ * charsjs by Zahidul Hossain
  * Licensed under MIT License
  * Release Date: 8th July, 2014
  * Version 0.1
