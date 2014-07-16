@@ -26,7 +26,7 @@ Here 400  is the maximum number of characters and "#text-1" is the id of textare
 
 Update:
 ==========
-0.2:
+0.2 (17 July 2014):
 	Now you dont need to specifically use id for textarea and class for text container.
 	It is now more handy. Just provide the textarea position on first argument and text
 	container id  or class name on the second argument
